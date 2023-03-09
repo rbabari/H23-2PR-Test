@@ -1,2 +1,3 @@
 print("Veuillez insérr votre texte ici...")
-print("bla bla ... ")
+print("bla bla lol... ")
+
