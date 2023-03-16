@@ -1,1 +1,5 @@
-print("poeme 8")
+print("roses are red")
+print("violets ate blue")
+print("git hub is new")
+print("I dont know what to do...")
+print("par : Tal Kaganski")
